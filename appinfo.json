@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "backgroundColor": 0,
+        "bluetoothVibes": 6,
+        "dateColor": 5,
+        "dotColor": 4,
+        "hourColor": 2,
+        "minuteColor": 3,
+        "tickColor": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "briwestervelt@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Formal",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Formal",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "705f3762-249f-4be9-af40-c6c18ee3e4e1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
